@@ -1,4 +1,4 @@
-# [Open-Source OS Training Comp 2023](https://github.com/LearningOS/rust-based-os-comp2023) 学习记录
+# [Open-Source OS Training Camp 2023](https://github.com/LearningOS/rust-based-os-comp2023) 学习记录
 
 ## Mar 25th
 复习Rust
