@@ -7,3 +7,6 @@
 
 ## Mar 27th
 最近在旅行， 不是很有时间学习， 看了看多线程的部分， 感觉rustlings的conversions和threads部分有点难。
+
+## Apr 5th
+完成了Rustlings， 在Codespaces搭建好了lab的环境。
