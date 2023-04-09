@@ -10,3 +10,6 @@
 
 ## Apr 5th
 完成了Rustlings， 在Codespaces搭建好了lab的环境。
+
+## Apr 9th
+看了The Rustonomicon的第二章和实现Vec的章节。最近面试问到了Rust的Atomics， 感觉之后要学习一下这个。
